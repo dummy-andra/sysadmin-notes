@@ -1,3 +1,3 @@
-# sysops-notes
+# System Adminstration notes
 
-Various how-to guides related to maintaining systems for hosting projects.
+Various how-to guides related to administering systems for hosting projects.
