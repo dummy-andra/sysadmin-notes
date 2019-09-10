@@ -31,12 +31,7 @@ Now continue working on your project until you are ready to upload.
 
 If your project is being uploaded for the first time
 
-![](img/github-desktop-walkthrough-1.png)
-
 1. Click "Publish repository" for a pop up screen to appear.
-
-![](img/github-desktop-walkthrough-2.png)
-
 2. You can keep "Keep this code private" set to on.
 3. Click "Publish repository" on the pop up screen.
  
@@ -48,19 +43,11 @@ If you need to update the online copy of your project
 2. You will be presented a list of files that have changed. You may review the changes.
 3. You must enter a summary. While getting used to Github, you can keep it simple (eg: "changed files"). Ideally you will be adding a meaningful description of what has changed, so browsing through the history of your project becomes easier later.
 4. Click "Commit to master" to confirm the changes.
-
-![](img/github-desktop-walkthrough-4.png)
-
 5. Click "Push origin" to actually perform the upload.
  
 ## Share project with me
 
-![](img/github-desktop-walkthrough-5.png)
-
 1. Go to [https://github.com/](github.com), login, go to **Your repositories**, & open the relevant repository.
 2. Click Settings
-
-![](img/github-desktop-walkthrough-6.png)
-
 3. Click Collaborators. Enter "paulbaumgarten" as a collaborator, click "Add collaborator".
 
